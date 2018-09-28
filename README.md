@@ -5,7 +5,7 @@
 1. list the path with status code 301/302 take place
 
 ### to run
-`sudo apt install pipenv`
-`pipenv shell`
-`pipenv install`
-`pipenv run python3 workable_log_parse.py 2014-09-03.log`
+1. `sudo apt install pipenv`
+1. `pipenv shell`
+1. `pipenv install`
+1. `pipenv run python3 workable_log_parse.py 2014-09-03.log`
